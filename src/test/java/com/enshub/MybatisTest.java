@@ -18,7 +18,7 @@ import java.util.List;
 public class MybatisTest {
     @Autowired
     private UserService userService;
-    @Test
+    //@Test
     public void test(){
 //        User person=new User();
 //        person.setAge(10);
